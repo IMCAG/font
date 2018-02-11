@@ -104,5 +104,13 @@
   }, {
     "name": "previous-item",
     "svg": "av/svg/production/ic_skip_previous_48px.svg"
+  }, {
+      "name": "play-2",
+      "svg": "play-2.svg",
+      "root-dir": "./custom-icons/imc/"
+  }, {
+      "name": "captions-2",
+      "svg": "captions-2.svg",
+      "root-dir": "./custom-icons/imc/"
   }]
 }
