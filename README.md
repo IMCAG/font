@@ -5,10 +5,17 @@ Google's [Material Design Icons](https://github.com/google/material-design-icons
 
 ## Usage
 
+For development:
 ```sh
 $ npm install grunt-cli // only if you don't already have grunt installed
 $ npm install
 $ grunt
+```
+
+To install into a custom Video.js project:
+```sh
+$ npm uninstall videojs-font --save
+$ npm install IMCAG/font#v2.1.0-IMC --save
 ```
 
 ### Custom icons
